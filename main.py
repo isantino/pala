@@ -10,3 +10,4 @@ edadParaVotar=16
 puedeVotar= edadParaVotar<=edadDeSantino
   if puedeVotar: 
     print("puede votar") 
+  
